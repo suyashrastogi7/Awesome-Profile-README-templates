@@ -1,5 +1,5 @@
 <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kq35as8x8f9vqc83r1o065agwizfaexs17trmtq6&rid=giphy.gif&ct=g" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
